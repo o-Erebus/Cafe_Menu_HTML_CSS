@@ -23,7 +23,6 @@ This project represents a cafe menu website, featuring:
 The project structure is straightforward:
 - `index.html` - The HTML file for the cafe menu.
 - `styles.css` - The CSS file responsible for styling the menu.
-- `images/` - A directory containing images used in the menu.
 
 ## Usage
 1. Clone this repository to your local machine:
@@ -50,5 +49,3 @@ For any questions or feedback, feel free to [contact us](https://www.freecodecam
 
 Enjoy your virtual cafe experience!
 ```
-
-You can copy and paste this README section into your GitHub repository.
