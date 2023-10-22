@@ -41,13 +41,13 @@ This project was completed as a part of the freeCodeCamp Responsive Web Design c
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/cafe-menu.git
+git clone https://github.com/o-Erebus/Cafe_Menu_HTML_CSS.git
 ```
 
 2. Navigate to the repository directory:
 
 ```
-cd cafe-menu
+cd Cafe_Menu_HTML_CSS
 ```
 
 3. Open the index.html file in a web browser:
